@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itz-Nirjalakshmi
-- 👀 I’m interested in becoming in data scientist
+- 👀 I’m interested in becoming a data scientist
 - 🌱 I’m currently learning bachelors in software development.
 - ⚡ I'm searching for projects to learn .
 
